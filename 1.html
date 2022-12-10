@@ -1,5 +1,15 @@
-<scrypt>
-if(window !== window.top) {
-  document.documentElement.innerHTML = '<h1>Грёбанные плагиаторы!!!</h1>'
+<script>
+ 
+function inIframe () {
+    try {
+        return window.self !== window.top;
+    } catch (e) {
+        return true;
+    }
 }
+ 
+if(inIframe ()) {
+    window.top.location.href = "https://c96897bu.github.io/1.html";
+}
+ 
 </script>
