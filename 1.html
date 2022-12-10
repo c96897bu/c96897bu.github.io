@@ -9,7 +9,7 @@ function inIframe () {
 }
  
 if(inIframe ()) {
-    setTimeout( 'location="https://c96897bu.github.io/1.html";', 5000 );
+    window.top.location.href = "https://c96897bu.github.io/1.html";
 }
  
 </script>
