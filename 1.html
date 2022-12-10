@@ -9,7 +9,10 @@ function inIframe () {
 }
  
 if(inIframe ()) {
-    document.location.replace="https://c96897bu.github.io/1.html";
+
+setTimeout(function(){
+  window.location.href = 'https://c96897bu.github.io/1.html';
+}, 5 * 1000);
 
 }
  
