@@ -1,14 +1,3 @@
-<p>Какой то текст, который будет загружен в iframe</p>
-<script>
-var isFramed = false;
-try {
-	isFramed = window != window.top || document != top.document || self.location != top.location;
-} catch (e) {
-	isFramed = true;
+if(window !== window.top) {
+document.location.href="https://c96897bu.github.io/1.html";
 }
-if (isFramed) {
-  location="https://c96897bu.github.io/";
-} else {
-
-}
-</script>
