@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2022-12-26T14:37:38+03:00">
+    <shop>
+        <name>Накрутка просмотров VK ВК [видео,клипы] | vkviews</name>
+        <company>vkviews</company>
+        <url>https://vkviews.exaccess.com</url>
+        <platform>digiseller</platform>
+        <categories>
+            <category id="356">Цифровые товары</category>
+            <category id="357">Вк просмотры</category>
+            <category id="358">Ролики вконтакте</category>
+            <category id="359">Клипы вконтакте</category>
+            <category id="360">Накрутка просмотров</category>
+        </categories>
+        <delivery-options>
+            <option cost="200" days="1"/>
+        </delivery-options>
+        <pickup-options>
+            <option cost="200" days="1"/>
+        </pickup-options>
+        <offers>
+            <offer id="3567671">
+                <name>VK | ВК Просмотры 1000 👁️‍🗨️ [ видео,клипы ]</name>
+                <vendor>вк.ком</vendor>
+                <vendorCode>3567671</vendorCode>
+                <url>https://vkviews.exaccess.com/detail/3567671</url>
+                <price>1</price>
+                <enable_auto_discounts>true</enable_auto_discounts>
+                <currencyId>RUR</currencyId>
+                <categoryId>356,357,358,359,360</categoryId>
+                <picture>https://graph.digiseller.ru/img.ashx?idp=4039860&maxlength=400&keepratio=1</picture>
+                <description>
+                    <![CDATA[          
+                        <p>Предоставим услугу по профессиональной и безопасной SMM-накруткии в соц. сети ВКонтакте просмотры на клипы и видео ролики.</p>
+                        <p>Минимально можно купить 100 просмотр</p>
+                        <p>Максимально можно купить 1000 просмотр</p>
+                    ]]>
+                </description>                
+                <sales_notes>Необходима полная предоплата.</sales_notes>
+            </offer>
+            <offer id="3568108">
+                <name>VK | ВК Просмотры 10000 👁️‍🗨️ [ видео,клипы ]</name>
+                <vendor>вк.ком</vendor>
+                <vendorCode>3568108</vendorCode>
+                <url>https://vkviews.exaccess.com/detail/3568108</url>
+                <price>18</price>
+                <enable_auto_discounts>true</enable_auto_discounts>
+                <currencyId>RUR</currencyId>
+                <categoryId>356,357,358,359,360</categoryId>
+                <picture>https://graph.digiseller.ru/img.ashx?idp=4039860&maxlength=400&keepratio=1</picture>
+                <description>
+                    <![CDATA[          
+                        <p>Предоставим услугу по профессиональной и безопасной SMM-накруткии в соц. сети ВКонтакте просмотры на клипы и видео ролики.</p>
+                        <p>Минимально можно купить 2000 просмотр</p>
+                        <p>Максимально можно купить 10000 просмотр</p>
+                    ]]>
+                </description>                
+                <sales_notes>Необходима полная предоплата.</sales_notes>
+            </offer>
+            <offer id="3568113">
+                <name>VK | ВК Просмотры 100000 👁️‍🗨️ [ видео,клипы ]</name>
+                <vendor>вк.ком</vendor>
+                <vendorCode>3568113</vendorCode>
+                <url>https://vkviews.exaccess.com/detail/3568113</url>
+                <price>78</price>
+                <enable_auto_discounts>true</enable_auto_discounts>
+                <currencyId>RUR</currencyId>
+                <categoryId>356,357,358,359,360</categoryId>
+                <picture>https://graph.digiseller.ru/img.ashx?idp=4039860&maxlength=400&keepratio=1</picture>
+                <description>
+                    <![CDATA[          
+                        <p>Предоставим услугу по профессиональной и безопасной SMM-накруткии в соц. сети ВКонтакте просмотры на клипы и видео ролики.</p>
+                        <p>Минимально можно купить 35000 просмотр</p>
+                        <p>Максимально можно купить 100000 просмотр</p>
+                    ]]>
+                </description>                
+                <sales_notes>Необходима полная предоплата.</sales_notes>
+            </offer>
+            <offer id="3568110">
+                <name>VK | ВК Просмотры 30000 👁️‍🗨️ [ видео,клипы ]</name>
+                <vendor>вк.ком</vendor>
+                <vendorCode>3568110</vendorCode>
+                <url>https://vkviews.exaccess.com/detail/3568110</url>
+                <price>120</price>
+                <enable_auto_discounts>true</enable_auto_discounts>
+                <currencyId>RUR</currencyId>
+                <categoryId>356,357,358,359,360</categoryId>
+                <picture>https://graph.digiseller.ru/img.ashx?idp=4039860&maxlength=400&keepratio=1</picture>
+                <description>
+                    <![CDATA[          
+                        <p>Предоставим услугу по профессиональной и безопасной SMM-накруткии в соц. сети ВКонтакте просмотры на клипы и видео ролики.</p>
+                        <p>Минимально можно купить 15000  просмотр</p>
+                        <p>Максимально можно купить 30000  просмотр</p>
+                    ]]>
+                </description>                
+                <sales_notes>Необходима полная предоплата.</sales_notes>
+            </offer>		
+            <offer id="3568115">
+                <name>VK | ВК Просмотры 200000 👁️‍🗨️ [ видео,клипы ]</name>
+                <vendor>вк.ком</vendor>
+                <vendorCode>3568115</vendorCode>
+                <url>https://vkviews.exaccess.com/detail/3568115</url>
+                <price>200</price>
+                <enable_auto_discounts>true</enable_auto_discounts>
+                <currencyId>RUR</currencyId>
+                <categoryId>356,357,358,359,360</categoryId>
+                <picture>https://graph.digiseller.ru/img.ashx?idp=4039860&maxlength=400&keepratio=1</picture>
+                <description>
+                    <![CDATA[          
+                        <p>Предоставим услугу по профессиональной и безопасной SMM-накруткии в соц. сети ВКонтакте просмотры на клипы и видео ролики.</p>
+                        <p>Минимально можно купить 100000   просмотр</p>
+                        <p>Максимально можно купить 200000   просмотр</p>
+                    ]]>
+                </description>                
+                <sales_notes>Необходима полная предоплата.</sales_notes>
+            </offer>		
+            <offer id="3568137">
+                <name>VK | ВК Просмотры 2мл 👁️‍🗨️ [ видео,клипы ]</name>
+                <vendor>вк.ком</vendor>
+                <vendorCode>3568137</vendorCode>
+                <url>https://vkviews.exaccess.com/detail/3568137</url>
+                <price>331</price>
+                <enable_auto_discounts>true</enable_auto_discounts>
+                <currencyId>RUR</currencyId>
+                <categoryId>356,357,358,359,360</categoryId>
+                <picture>https://graph.digiseller.ru/img.ashx?idp=4039860&maxlength=400&keepratio=1</picture>
+                <description>
+                    <![CDATA[          
+                        <p>Предоставим услугу по профессиональной и безопасной SMM-накруткии в соц. сети ВКонтакте просмотры на клипы и видео ролики.</p>
+                        <p>Минимально можно купить 300000    просмотр</p>
+                        <p>Максимально можно купить 2000000    просмотр</p>
+                    ]]>
+                </description>                
+                <sales_notes>Необходима полная предоплата.</sales_notes>
+            </offer>		
+		</offers>
+    </shop>
+</yml_catalog>
